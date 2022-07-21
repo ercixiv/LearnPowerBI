@@ -16,11 +16,13 @@ It's a good place to start. Here is my MS learn collection. The order is based o
 ## Data
 
 ### Official MS samples
-You can get plenty of sample data on the internet to play with, but a good start would be using microsoft's official desktop samples.
+You can get plenty of sample data on the internet to play with, but a good start would be using microsoft's official desktop samples.  
 [Power BI desktop samples github](https://github.com/microsoft/powerbi-desktop-samples)  
   
-Most of the topics in MS Learn modules can be practiced using the AdventureWorks Sales sample.
-[AdventureWorks Sales.pbix](https://github.com/microsoft/powerbi-desktop-samples/blob/main/AdventureWorks%20Sales%20Sample/AdventureWorks%20Sales.pbix)
+Most of the topics in MS Learn modules can be practiced using the AdventureWorks Sales sample.  
+[AdventureWorks Sales.pbix](https://github.com/microsoft/powerbi-desktop-samples/blob/main/AdventureWorks%20Sales%20Sample/AdventureWorks%20Sales.pbix)  
+  
+The problem with this dataset is that you cannot edit the data that has already been loaded through Power Query and that the data model has already been setup for you which beats the purpose of learning.
   
 ### SQL server express
 Learning T-SQL is another option. SQL Express is a local db installed in your computer where you can practice querying data from RDBMS. I will update this topic in the future.
